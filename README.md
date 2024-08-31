@@ -4,8 +4,8 @@ We have downloaded a movie dataset, written a Python code to explore the data, g
 Below are the steps I followed for analysis:
 
 Task1: Reading and Inspection
-1.1 Import & Read
-1.2 Inspect the dataframe
+- 1.1 Import & Read
+- 1.2 Inspect the dataframe
 
 Task2: Cleaning the data
 2.1 Inspect null values
